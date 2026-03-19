@@ -1,0 +1,8 @@
+com\WebShop\PageObject\ShoppingCartPOM.class
+com\WebShop\PageObject\BuildYourOwnComputerPagePOM.class
+com\WebShop\PageObject\NotificationPOM.class
+com\WebShop\PageObject\LoginPagePOM.class
+com\WebShop\Utils\ActionKeywords.class
+assertion_practice\assertion.class
+com\WebShop\Testcases\LoginTest.class
+com\WebShop\Testcases\LoginTest1.class
